@@ -12,3 +12,4 @@ List of public education resources.
 * Statistical Significance
   + https://www.nature.com/articles/d41586-019-00857-9
   + https://www.nature.com/magazine-assets/d41586-019-00857-9/data-and-list-of-co-signatories
+* Sample Size Paradox https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf
