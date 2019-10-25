@@ -9,6 +9,9 @@ List of public education resources.
 
 ## Math
 
+### Game Theory
+* Game Theory Stimulations https://ncase.me/trust/
+
 ### Linear algebra
 * Terance Tao class notes http://www.math.ucla.edu/~tao/resource/general/115a.3.02f/
 
