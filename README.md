@@ -3,9 +3,11 @@ List of public education resources.
 
 ## Programming
 
+### Data Types
+* Floats Arithmetic http://www.validlab.com/goldberg/paper.pdf
+
 ### Functional Theory
 * Scala Math https://github.com/winitzki/sofp/blob/master/sofp-src/sofp.pdf
-
 
 ## Math
 
