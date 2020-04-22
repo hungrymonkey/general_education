@@ -11,6 +11,9 @@ List of public education resources.
 
 ## Math
 
+### Translated Textbooks
+* Translated Text books https://mirtitles.org/
+
 ### Game Theory
 * Game Theory Stimulations https://ncase.me/trust/
 
