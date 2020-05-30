@@ -2,6 +2,8 @@
 List of public education resources.
 
 ## Programming
+### Tracing vs Reference Count GC
+* http://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf
 
 ### Data Types
 * Floating Arithmetic http://www.validlab.com/goldberg/paper.pdf
