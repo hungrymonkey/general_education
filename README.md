@@ -2,6 +2,9 @@
 List of public education resources.
 
 ## Programming
+### Git Internals
+* Build Git with Python https://www.leshenko.net/p/ugit/#
+
 ### Garbage Collection
 * Tracing vs Reference Counting http://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf
 
