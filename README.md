@@ -14,6 +14,9 @@ List of public education resources.
 ### Functional Theory
 * Scala Math https://github.com/winitzki/sofp/blob/master/sofp-src/sofp.pdf
 
+### Conversion Rules
+* C/C++ Conversion rules https://www.nayuki.io/page/summary-of-c-cpp-integer-rules
+
 ## Math
 
 ### Translated Textbooks
