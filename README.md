@@ -1,6 +1,9 @@
 # general_education
 List of public education resources.
 
+## Network
+* IPv4 https://vincent.bernat.ch/en/blog/2017-ipv4-route-lookup-linux
+
 ## Programming
 ### Git Internals
 * Build Git with Python https://www.leshenko.net/p/ugit/#
