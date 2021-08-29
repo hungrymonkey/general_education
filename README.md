@@ -14,6 +14,9 @@ List of public education resources.
 ### Data Types
 * Floating Arithmetic http://www.validlab.com/goldberg/paper.pdf
 
+### Generics
+* Metaprogramming https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/
+
 ### Functional Theory
 * Scala Math https://github.com/winitzki/sofp/blob/master/sofp-src/sofp.pdf
 
