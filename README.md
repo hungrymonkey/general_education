@@ -23,6 +23,9 @@ List of public education resources.
 ### Conversion Rules
 * C/C++ Conversion rules https://www.nayuki.io/page/summary-of-c-cpp-integer-rules
 
+### Multi-Threading
+* SMP https://developer.android.com/training/articles/smp
+
 ## Graphics
 ### Physical rendering
 * Ray Tracing https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/
