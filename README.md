@@ -51,3 +51,4 @@ List of public education resources.
 ## Semiconductors
 * Register Files https://semiwiki.com/semiconductor-manufacturers/tsmc/296253-register-file-design-at-the-5nm-node/
 * Measuring Reorder Buffers https://blog.stuffedcow.net/2013/05/measuring-rob-capacity/
+* Calculating Memory Performance https://blog.cloudflare.com/ddr4-memory-organization-and-how-it-affects-memory-bandwidth/
