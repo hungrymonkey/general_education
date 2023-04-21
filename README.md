@@ -30,6 +30,9 @@ List of public education resources.
 ### Physical rendering
 * Ray Tracing https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/
 
+### Pure math based rendering
+* Math based rendering https://iquilezles.org/
+
 ## Math
 
 ### Translated Textbooks
