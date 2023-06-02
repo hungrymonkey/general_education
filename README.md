@@ -23,6 +23,9 @@ List of public education resources.
 ### Conversion Rules
 * C/C++ Conversion rules https://www.nayuki.io/page/summary-of-c-cpp-integer-rules
 
+### Language Interals
+* Rust Internals https://eventhelix.com/rust/rust-to-assembly-enum-match/
+
 ### Multi-Threading
 * SMP https://developer.android.com/training/articles/smp
 
