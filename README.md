@@ -27,6 +27,7 @@ List of public education resources.
 * Rust Internals https://eventhelix.com/rust/rust-to-assembly-enum-match/
 
 ### Multi-Threading
+* Ring buffers https://ruby0x1.github.io/machinery_blog_archive/post/virtual-memory-tricks/index.html
 * SMP https://developer.android.com/training/articles/smp
 
 ## Graphics
