@@ -32,7 +32,7 @@ List of public education resources.
 * SMP https://developer.android.com/training/articles/smp
 
 ### Video Codecs
-* https://sharedobject.blog/posts/vp8-combinatorial-logic/
+* NAND codecs https://sharedobject.blog/posts/vp8-combinatorial-logic/
 
 ## Graphics
 ### Physical rendering
