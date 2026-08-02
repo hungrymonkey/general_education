@@ -24,12 +24,15 @@ List of public education resources.
 ### Conversion Rules
 * C/C++ Conversion rules https://www.nayuki.io/page/summary-of-c-cpp-integer-rules
 
-### Language Interals
+### Language Internals
 * Rust Internals https://eventhelix.com/rust/rust-to-assembly-enum-match/
 
 ### Multi-Threading
 * Ring buffers https://ruby0x1.github.io/machinery_blog_archive/post/virtual-memory-tricks/index.html
 * SMP https://developer.android.com/training/articles/smp
+
+### Video Codecs
+* https://sharedobject.blog/posts/vp8-combinatorial-logic/
 
 ## Graphics
 ### Physical rendering
@@ -44,10 +47,10 @@ List of public education resources.
 * Translated Textbooks https://mirtitles.org/
 
 ### Game Theory
-* Game Theory Stimulations https://ncase.me/trust/
+* Game Theory Simulations https://ncase.me/trust/
 
 ### Linear algebra
-* Terance Tao class notes http://www.math.ucla.edu/~tao/resource/general/115a.3.02f/
+* Terence Tao class notes http://www.math.ucla.edu/~tao/resource/general/115a.3.02f/
 
 ### Statistics
 * D-Separation http://www.dagitty.net/learn/dsep/index.html
